@@ -1,0 +1,43 @@
+[
+    {
+      "placeId": 1,
+      "placeTitle": "Cox's Bazar",
+      "placeDetails": "Cox's Bazar is a famous tourist destination known for its long sandy beach. It is located in the southeastern part of Bangladesh and is one of the most popular beach resorts in the world. The beach is known for its natural beauty, with a long stretch of golden sand and blue waters. Tourists often enjoy beachcombing, engaging in various water sports, and visiting nearby attractions like Himchari National Park. The best time to visit Cox's Bazar is from November to February when the weather is pleasant. Accommodation options are plentiful, ranging from budget-friendly hotels to luxurious resorts along the beach.",
+      
+      "coordinates": {
+        "latitude": 21.4272,
+        "longitude": 92.0058
+      }
+    },
+    {
+      "placeId": 2,
+      "placeTitle": "Sajek",
+      "placeDetails": "Sajek is a beautiful hill station in the Chittagong Hill Tracts, known for its stunning landscapes and serene environment. It is a popular destination for nature lovers and adventure seekers. The hill station offers breathtaking views, making it a perfect spot for photography and trekking. Visitors can explore the Konglak Hills, known for their unique charm. The best time to visit Sajek is from October to March. Accommodation options include eco-friendly resorts and cottages that provide a peaceful stay amidst nature.",
+     
+      "coordinates": {
+        "latitude": 23.3820,
+        "longitude": 92.2938
+      }
+    },
+    {
+      "placeId": 3,
+      "placeTitle": "Sreemongol",
+      "placeDetails": "Sreemongol, often referred to as the 'Tea Capital of Bangladesh,' is known for its lush tea gardens and vibrant landscapes. It is a paradise for tea enthusiasts and nature lovers. Visitors can take guided tours of the tea gardens, explore Lawachara National Park, and indulge in bird-watching activities. The best time to visit Sreemongol is from September to March. Accommodation options include guesthouses and resorts that offer a comfortable stay. The local markets are known for their tea-related products and handicrafts.",
+      
+      "coordinates": {
+        "latitude": 24.3065,
+        "longitude": 91.7296
+      }
+    },
+    {
+      "placeId": 4,
+      "placeTitle": "Sundarbans",
+      "placeDetails": "The Sundarbans is the largest mangrove forest in the world, situated in the southwestern part of Bangladesh. It is known for its unique ecosystem, diverse wildlife, and the majestic Bengal tiger. Visitors can embark on boat trips to explore the intricate network of rivers and canals, spot wildlife in their natural habitat, and visit Sajnekhali Wildlife Sanctuary. The best time to visit Sundarbans is from November to February. Accommodation options include forest lodges and eco-friendly resorts. Adventure enthusiasts can experience the thrill of exploring the mangroves.",
+     
+      "coordinates": {
+        "latitude": 21.9497,
+        "longitude": 89.1833
+      }
+    }
+  ]
+  
