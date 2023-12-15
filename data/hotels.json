@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "name": "Seaside Paradise Hotel",
+      "placeId": 1,
+      "placeName": "Cox's Bazar",
+      "beds": 2,
+      "guests": 4,
+      "rating": 4.5,
+      "pricePerNight": 120
+    },
+    {
+      "id": 2,
+      "name": "Golden Sands Resort",
+      "placeId": 1,
+      "placeName": "Cox's Bazar",
+      "beds": 3,
+      "guests": 6,
+      "rating": 4.2,
+      "pricePerNight": 150
+    },
+    {
+      "id": 3,
+      "name": "Ocean View Inn",
+      "placeId": 1,
+      "placeName": "Cox's Bazar",
+      "beds": 2,
+      "guests": 4,
+      "rating": 4.0,
+      "pricePerNight": 100
+    },
+    {
+      "id": 4,
+      "name": "Mountain Retreat Lodge",
+      "placeId": 2,
+      "placeName": "Sajek",
+      "beds": 3,
+      "guests": 5,
+      "rating": 4.7,
+      "pricePerNight": 180
+    },
+    {
+      "id": 5,
+      "name": "Valley Vista Hotel",
+      "placeId": 2,
+      "placeName": "Sajek",
+      "beds": 2,
+      "guests": 4,
+      "rating": 4.3,
+      "pricePerNight": 130
+    },
+    {
+      "id": 6,
+      "name": "Cloud Nine Cottage",
+      "placeId": 2,
+      "placeName": "Sajek",
+      "beds": 1,
+      "guests": 2,
+      "rating": 4.8,
+      "pricePerNight": 90
+    },
+    {
+      "id": 7,
+      "name": "Tea Gardens Resort",
+      "placeId": 3,
+      "placeName": "Sreemongol",
+      "beds": 2,
+      "guests": 3,
+      "rating": 4.6,
+      "pricePerNight": 110
+    },
+    {
+      "id": 8,
+      "name": "Forest Oasis Lodge",
+      "placeId": 3,
+      "placeName": "Sreemongol",
+      "beds": 3,
+      "guests": 5,
+      "rating": 4.4,
+      "pricePerNight": 140
+    },
+    {
+      "id": 9,
+      "name": "Green Retreat Hotel",
+      "placeId": 3,
+      "placeName": "Sreemongol",
+      "beds": 2,
+      "guests": 4,
+      "rating": 4.1,
+      "pricePerNight": 120
+    },
+    {
+      "id": 10,
+      "name": "Mangrove Eco Resort",
+      "placeId": 4,
+      "placeName": "Sundarbans",
+      "beds": 2,
+      "guests": 3,
+      "rating": 4.5,
+      "pricePerNight": 130
+    },
+    {
+      "id": 11,
+      "name": "Wildlife Lodge",
+      "placeId": 4,
+      "placeName": "Sundarbans",
+      "beds": 1,
+      "guests": 2,
+      "rating": 4.2,
+      "pricePerNight": 100
+    },
+    {
+      "id": 12,
+      "name": "Riverfront Retreat",
+      "placeId": 4,
+      "placeName": "Sundarbans",
+      "beds": 3,
+      "guests": 6,
+      "rating": 4.0,
+      "pricePerNight": 150
+    }
+  ]
